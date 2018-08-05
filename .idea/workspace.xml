@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8c93b31-f1ca-4985-b595-f956fe94793d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-325523778">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="json" value="93" />
+          <entry key="md" value="2" />
+          <entry key="py" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="93" />
+          <entry key="Markdown" value="2" />
+          <entry key="Python" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="6942" />
+          <entry key="md" value="236" />
+          <entry key="py" value="3613" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="236" />
+          <entry key="Python" value="10555" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1504707424">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="md" value="4" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="356" />
+          <entry key="py" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="356" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bz338/login_bz338.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bz338/var_5starport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="214" column="11" lean-forward="true" selection-start-line="214" selection-start-column="11" selection-end-line="214" selection-end-column="11" />
+              <folding>
+                <element signature="e#20#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bz338/title_db_gid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+              <folding>
+                <element signature="e#45#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bz338/download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1839">
+              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding>
+                <element signature="e#38#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bz338/var_pkulaw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xxtp</find>
+      <find>本法自2018年5月1日起施行</find>
+      <find>中国公民出国旅游管理办法(2017修订)</find>
+      <find>司法解释</find>
+      <find>威海市海岸带保护条例</find>
+      <find>《低温多效海水淡化阻垢剂阻垢性能的测定人工海水碳酸钙沉积法》意见的通知</find>
+      <find>共找到</find>
+      <find>&quot;name&quot;</find>
+      <find>页</find>
+      <find>'法宝联想'</find>
+      <find>tbl_content_</find>
+      <find>tbl_content_main</find>
+      <find>全文</find>
+      <find>【全文】</find>
+      <find>trs_last</find>
+      <find>法宝联想</find>
+      <find>第四章　父母子女间的关系</find>
+      <find>父母对于子</find>
+      <find>Title</find>
+      <find>logger</find>
+      <find>附件</find>
+      <find>sleep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>trs[-1]</replace>
+      <replace>print</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/data/法律/中华人民共和国宪法(1954)[失效].json" />
+        <option value="F:/data/地方工作文件/泉州市人民政府关于白碧英等同志任职的批复.json" />
+        <option value="F:/data/地方工作文件/黑龙江省安全生产“十三五”规划及全国安全生产“十三五”规划实施方案.json" />
+        <option value="F:/data/地方工作文件/黑龙江省钢铁行业化解过剩产能实现脱困发展领导小组办公室关于进一步做好2018年钢铁行业化解过剩产能有关工作通知.json" />
+        <option value="F:/data/地方工作文件/陕西省人大常委会2013年立法计划.json" />
+        <option value="F:/data/地方性法规/青海省人大常委会关于批准《海北藏族自治州第十三届人民代表大会第四次会议关于修改部分单行条例的决定》的决议.json" />
+        <option value="F:/data/问答/中华人民共和国外交部新闻司发言人就香港问题对新华社记者提问的回答.json" />
+        <option value="F:/data/部门规章/国务院国资委关于在国资委系统开展法制宣传教育的第五个五年规划[失效].json" />
+        <option value="F:/data/部门规章/互联网交换中心网间结算办法(2007).json" />
+        <option value="F:/data/部门规章/海洋公益性行业科研专项经费管理暂行办法.json" />
+        <option value="F:/data/部门规章/交通部办公厅关于加强震后和汛期公路水运工程质量安全工作的紧急通知.json" />
+        <option value="F:/data/部门规章/商务部政府信息公开工作责任追究办法(试行).json" />
+        <option value="F:/data/部门规章/文物艺术品拍卖规程.json" />
+        <option value="F:/data/部门规章/工业和信息化部公告2015年第80号――关于制定1800MHz、1900MHz和2100MHz频段IMT系统基站射频技术指标及台站设置要求有关事项的公告.json" />
+        <option value="F:/data/司法解释/最高人民法院关于行政案件如何向上请示及加强调研工作的通知.json" />
+        <option value="F:/data/团体规定/中国共产党章程部分条文修正案(1987).json" />
+        <option value="F:/data/地方工作文件/四川省国家税务局关于印发《四川省国税系统税务案件审理工作制度(试行)》的通知[失效].json" />
+        <option value="F:/data/地方工作文件/黄石市人民政府办公室关于印发黄石市食品安全委员会成员单位工作职责的通知[失效].json" />
+        <option value="F:/data/立法草案_其他/国务院法制办公室关于《国务院关于修改〈中华人民共和国审计法实施条例〉的决定(征求意见稿)》公开征求意见的通知.json" />
+        <option value="F:/data/问答/文字访谈：解读三中全会《决定》“反腐新规”.json" />
+        <option value="$PROJECT_DIR$/bz338/var_5starport.py" />
+        <option value="F:/data/问答/最高人民法院关于2012年中国法院知识产权司法保护状况及典型案例的新闻发布稿.json" />
+        <option value="F:/data/问答/最高人民法院发布《最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释》新闻发布稿.json" />
+        <option value="$PROJECT_DIR$/bz338/var_pkulaw.py" />
+        <option value="F:/data/问答/中国保监会关于《保险公司股权管理办法》第四条有关问题的通知答记者问.json" />
+        <option value="F:/data/问答/中华人民共和国外交部新闻司发言人就有关荷兰政府批准向台湾出售潜艇问题答新华社记者问.json" />
+        <option value="F:/data/问答/最高人民法院有关负责人就《最高人民法院关于审理涉及会计师事务所在审计业务活动中民事侵权赔偿案件的若干规定》答记者问.json" />
+        <option value="F:/data/问答/中国人民银行有关负责人就《关于加强支付结算管理 防范电信网络新型违法犯罪有关事项的通知》答记者问.json" />
+        <option value="F:/data/问答/正确适用修改后刑事诉讼法不断开创刑事审判工作新局面――最高人民法院有关负责人就刑事诉讼法司法解释答记者问.json" />
+        <option value="F:/data/问答/生态环境部土壤环境管理司有关负责人就农用地、建设用地土壤污染风险管控标准有关问题答记者问.json" />
+        <option value="F:/data/问答/中国银行保险监督管理委员会有关部门负责人就《商业银行银行账簿利率风险管理指引(修订)》答记者问.json" />
+        <option value="F:/data/地方政府规章/广州市人民政府关于批转市房管局、市财政局《广州市行政、事业单位干部、职工房租补贴的暂行规定》的通知[失效].json" />
+        <option value="F:/data/地方政府规章/四川省标准化管理实施办法.json" />
+        <option value="F:/data/地方政府规章/广州市人民政府实行计划供水和节约用水的试行办法[失效].json" />
+        <option value="F:/data/地方政府规章/广东省经济特区企业登记管理暂行规定[失效].json" />
+        <option value="$PROJECT_DIR$/bz338/download.py" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于朝阳区孙河乡机场南线搬迁安置住房项目核准的批复.json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于顺义区新城商业配套区I地块(C5－02)土地一级开发项目核准的批复.json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于顺义区西马坡居住区双限房土地一级开发项目核准的批复.json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于批准北京联合大学特殊教育学院改扩建工程可行性研究报告的函 .json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于大兴区万源小区集资合作建房遗留项目核准的批复.json" />
+        <option value="F:/data/行政许可复批/成都市物价局关于成都市第三人民医院制剂价格的批复.json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于北京怀柔医院可行性研究报告的批复.json" />
+        <option value="F:/data/行政许可复批/北京市发展和改革委员会关于海淀区苏家坨中心C02、C03地块经济适用住房项目核准的批复.json" />
+        <option value="F:/data/行政许可复批/上海市财政局、上海市物价局关于市公安局《关于收取＜船舶户口簿＞、＜船舶户牌＞工本费的函》的复函.json" />
+        <option value="$PROJECT_DIR$/deploy.md" />
+        <option value="F:/data/法律/全国人大常委会批准《国务院关于劳动教养问题的决定》的决议[失效].json" />
+        <option value="$PROJECT_DIR$/bz338/title_db_gid.py" />
+        <option value="$PROJECT_DIR$/mongdb.md" />
+        <option value="$PROJECT_DIR$/data.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="921" />
+    <option name="width" value="944" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bz338" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bz338" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bz338" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bz338" type="462c0819:PsiDirectoryNode" />
+              <item name="bz338" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/bz338/bz338/title_db_gid.py" />
+    <property name="last_opened_file_path" value="F:/mercury" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\bz338\tmp_test\data\links" />
+      <recent name="F:\bz338\tmp_test\data" />
+      <recent name="F:\bz338\tmp_test" />
+      <recent name="F:\bz338\bz338" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\bz338" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.title_db_gid">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bz338" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bz338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bz338/download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_bz338" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bz338" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bz338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bz338/login_bz338.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="title_db_gid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bz338" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bz338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bz338/title_db_gid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="var_5starport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bz338" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bz338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bz338/var_5starport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="var_pkulaw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bz338" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bz338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bz338/var_pkulaw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.login_bz338" />
+      <item itemvalue="Python.var_5starport" />
+      <item itemvalue="Python.title_db_gid" />
+      <item itemvalue="Python.download" />
+      <item itemvalue="Python.var_pkulaw" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.title_db_gid" />
+        <item itemvalue="Python.var_5starport" />
+        <item itemvalue="Python.login_bz338" />
+        <item itemvalue="Python.download" />
+        <item itemvalue="Python.var_pkulaw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c93b31-f1ca-4985-b595-f956fe94793d" name="Default" comment="" />
+      <created>1532059819115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532059819115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18600954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.294686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33737373" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2959596" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13354531" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33011273" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33737373" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2959596" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/data/问答/中华人民共和国外交部新闻司发言人就香港问题对新华社记者提问的回答.json" />
+    <entry file="file://F:/data/部门规章/国务院国资委关于在国资委系统开展法制宣传教育的第五个五年规划[失效].json" />
+    <entry file="file://F:/data/部门规章/海洋公益性行业科研专项经费管理暂行办法.json" />
+    <entry file="file://F:/data/部门规章/交通部办公厅关于加强震后和汛期公路水运工程质量安全工作的紧急通知.json" />
+    <entry file="file://F:/data/部门规章/商务部政府信息公开工作责任追究办法(试行).json" />
+    <entry file="file://F:/data/部门规章/互联网交换中心网间结算办法(2007).json" />
+    <entry file="file://F:/data/部门规章/文物艺术品拍卖规程.json" />
+    <entry file="file://F:/data/部门规章/工业和信息化部公告2015年第80号――关于制定1800MHz、1900MHz和2100MHz频段IMT系统基站射频技术指标及台站设置要求有关事项的公告.json" />
+    <entry file="file://F:/data/司法解释/最高人民法院关于行政案件如何向上请示及加强调研工作的通知.json" />
+    <entry file="file://F:/data/团体规定/中国共产党章程部分条文修正案(1987).json" />
+    <entry file="file://F:/data/地方工作文件/中共河北省委员会、河北省政府关于进一步加强城市规划建设管理工作的实施意见.json" />
+    <entry file="file://F:/data/地方工作文件/四川省国家税务局关于印发《四川省国税系统税务案件审理工作制度(试行)》的通知[失效].json" />
+    <entry file="file://F:/data/地方工作文件/黄石市人民政府办公室关于印发黄石市食品安全委员会成员单位工作职责的通知[失效].json" />
+    <entry file="file://F:/data/立法草案_其他/国务院法制办公室关于《国务院关于修改〈中华人民共和国审计法实施条例〉的决定(征求意见稿)》公开征求意见的通知.json" />
+    <entry file="file://F:/data/问答/文字访谈：解读三中全会《决定》“反腐新规”.json" />
+    <entry file="file://F:/data/问答/最高人民法院发布《最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释》新闻发布稿.json" />
+    <entry file="file://F:/data/问答/最高人民法院关于2012年中国法院知识产权司法保护状况及典型案例的新闻发布稿.json" />
+    <entry file="file://F:/data/问答/中华人民共和国外交部新闻司发言人就有关荷兰政府批准向台湾出售潜艇问题答新华社记者问.json" />
+    <entry file="file://F:/data/问答/最高人民法院有关负责人就《最高人民法院关于审理涉及会计师事务所在审计业务活动中民事侵权赔偿案件的若干规定》答记者问.json" />
+    <entry file="file://F:/data/问答/中国人民银行有关负责人就《关于加强支付结算管理 防范电信网络新型违法犯罪有关事项的通知》答记者问.json" />
+    <entry file="file://F:/data/问答/正确适用修改后刑事诉讼法不断开创刑事审判工作新局面――最高人民法院有关负责人就刑事诉讼法司法解释答记者问.json" />
+    <entry file="file://F:/data/问答/民政部发布2013年退役士兵安置政策问答.json" />
+    <entry file="file://F:/data/问答/生态环境部土壤环境管理司有关负责人就农用地、建设用地土壤污染风险管控标准有关问题答记者问.json" />
+    <entry file="file://F:/data/问答/中国银行保险监督管理委员会有关部门负责人就《商业银行银行账簿利率风险管理指引(修订)》答记者问.json" />
+    <entry file="file://F:/data/问答/中国保监会关于《保险公司股权管理办法》第四条有关问题的通知答记者问.json" />
+    <entry file="file://F:/data/地方政府规章/四川省标准化管理实施办法.json" />
+    <entry file="file://F:/data/地方政府规章/广州市人民政府实行计划供水和节约用水的试行办法[失效].json" />
+    <entry file="file://F:/data/地方政府规章/广东省经济特区企业登记管理暂行规定[失效].json" />
+    <entry file="file://F:/data/地方政府规章/广州市人民政府关于批转市房管局、市财政局《广州市行政、事业单位干部、职工房租补贴的暂行规定》的通知[失效].json" />
+    <entry file="file://$PROJECT_DIR$/tmp_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="41" column="64" lean-forward="true" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于朝阳区孙河乡机场南线搬迁安置住房项目核准的批复.json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于顺义区新城商业配套区I地块(C5－02)土地一级开发项目核准的批复.json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于顺义区西马坡居住区双限房土地一级开发项目核准的批复.json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于批准北京联合大学特殊教育学院改扩建工程可行性研究报告的函 .json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于大兴区万源小区集资合作建房遗留项目核准的批复.json" />
+    <entry file="file://F:/data/行政许可复批/成都市物价局关于成都市第三人民医院制剂价格的批复.json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于北京怀柔医院可行性研究报告的批复.json" />
+    <entry file="file://F:/data/行政许可复批/北京市发展和改革委员会关于海淀区苏家坨中心C02、C03地块经济适用住房项目核准的批复.json" />
+    <entry file="file://F:/data/行政许可复批/上海市财政局、上海市物价局关于市公安局《关于收取＜船舶户口簿＞、＜船舶户牌＞工本费的函》的复函.json" />
+    <entry file="file://$PROJECT_DIR$/deploy.md" />
+    <entry file="file://F:/data/法律/全国人大常委会批准《国务院关于劳动教养问题的决定》的决议[失效].json" />
+    <entry file="file://$PROJECT_DIR$/bz338/login_bz338.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bz338/var_5starport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="214" column="11" lean-forward="true" selection-start-line="214" selection-start-column="11" selection-end-line="214" selection-end-column="11" />
+          <folding>
+            <element signature="e#20#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_doSearch_form_fmt.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_clust.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bz338/var_pkulaw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="418">
+            <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bz338/title_db_gid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="e#45#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bz338/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1839">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#38#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
